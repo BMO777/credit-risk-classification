@@ -27,4 +27,4 @@
 * However, performance does depend on the problem we are trying to solve, because there is negligable gain from using the resampled training data to predict healthy loans seeing as the recall and F1 scores are almost identical for (0).
 Therefore, I would recomment the Logistic Regression Model with Resampled Training Data for predicting high risk loans only.
 
-To Run: Python with the libraris, pandas, scikit learn, and imblearn(for RandomOversampling) are required. Jupyter Notebook is recommended to view and run cells.
+To Run: Python with the libraries, pandas, scikit learn, and imblearn(for RandomOversampling) are required. Jupyter Notebook is recommended to view and run cells.
