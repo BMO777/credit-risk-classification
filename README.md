@@ -23,7 +23,7 @@
   * Recall was 99% for both (0) and (1)
  ## Summary
 
-* The Logistic Regression Model with Resampled Training Data seems to perform best, because it predicts high risk loan labels with a greater recall and F1 scores
+* The Logistic Regression Model with Resampled Training Data seems to perform best, because it predicts high risk loan labels with greater recall and F1 scores
 * However, performance does depend on the problem we are trying to solve, because there is negligable gain from using the resampled training data to predict healthy loans seeing as the recall and F1 scores are almost identical for (0).
 Therefore, I would recomment the Logistic Regression Model with Resampled Training Data for predicting high risk loans only.
 
