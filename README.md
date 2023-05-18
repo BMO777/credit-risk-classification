@@ -9,7 +9,7 @@
   3. Instantiating, fitting, and saving a model based on training data
   4. Making predictions on the fitted model using testing data
   5. Generating scores, reports, graphs etc. based on the saved predictions
-* LogisticRegression was the primary method used to model,the original data was used in the 1st instance and the RandomOverSampler modified the data before being used in combination with the aforementioned model in the 2nd instance.
+* LogisticRegression was the primary method used for modeling. The original data was used in the 1st instance and the RandomOverSampler modified the data before being used in combination with the aforementioned model in the 2nd instance.
 
 * Machine Learning Logistic Regression Model with the Original Data:
   * The Accuracy score using the balaced_accuracy_score in scikit learn resulted in 95.2% accuracy. 
